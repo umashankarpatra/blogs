@@ -13,3 +13,7 @@
     #CodeCoverage using JaCoCo
 
       #https://medium.com/@umashankar.patra19/codecoverage-using-jacoco-77cbd1dd181b
+      
+    #Moving from REST API to GraphQL
+    
+    https://medium.com/@umashankar.patra19/moving-rest-api-to-graphql-9844de9dbfc7
